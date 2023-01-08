@@ -1,5 +1,3 @@
-- Hi, I’m PANKAJ SINGH
-- I’m interested in Artificial Intelligece
-- I’m currently learning Django Framework
-- I’m looking to collaborate on Machine Learning
-- Contact me : psingh18mtr@gmail.com
+- Hi, I’m PANKAJ kumar
+- I’m interested in Machine Learning Intelligece check Out: https://www.kaggle.com/pankajkumar2002
+- I use the github as my private repsotiory and codespace toolkit
