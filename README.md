@@ -1,3 +1,3 @@
 - Hi, I’m PANKAJ kumar
 - I’m interested in Machine Learning, check Out: https://www.kaggle.com/pankajkumar2002
-- I use the github as my private repsotiory and codespace toolkit
+- I use the github for personal projects and toolkit
